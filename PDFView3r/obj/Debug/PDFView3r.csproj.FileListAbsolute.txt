@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\obj\Debug\PDFView3r.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\obj\Debug\PDFView3r.Form1.resources
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\obj\Debug\PDFView3r.Properties.Resources.resources
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\obj\Debug\PDFView3r.csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\obj\Debug\PDFView3r.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\bin\Debug\PDFView3r.exe.config
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\bin\Debug\PDFView3r.exe
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\bin\Debug\PDFView3r.pdb
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\obj\Debug\PDFView3r.exe
+C:\Users\brand\source\repos\PDFView3r\PDFView3r\obj\Debug\PDFView3r.pdb
