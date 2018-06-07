@@ -49,6 +49,9 @@
             // 
             // pdfBrowser
             // 
+            this.pdfBrowser.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.pdfBrowser.Location = new System.Drawing.Point(12, 54);
             this.pdfBrowser.MinimumSize = new System.Drawing.Size(20, 20);
             this.pdfBrowser.Name = "pdfBrowser";
